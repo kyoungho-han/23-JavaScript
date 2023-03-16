@@ -35,5 +35,6 @@
 
 ##2주차 실습
 ### 화씨온도를 섭씨온도로 변환하기
-<img width="868" alt="스크린샷 2023-03-16 오후 7 44 21" src="https://user-images.githubusercontent.com/116784548/225593765-2d0c2264-e10a-4dcf-b6a8-da47f4787a55.png">
+<img width="868" alt="스크린샷 2023-03-16 오후 7 44 21" src="https://user-images.githubusercontent.com/116784548/225593765-2d0c2264-e10a-4dcf-b6a8-da47f4787a55.png"><img width="454" alt="스크린샷 2023-03-16 오후 7 44 32" src="https://user-images.githubusercontent.com/116784548/225594141-b6d17914-7a11-4c16-b3ca-e8394ffb953a.png">
+
 
