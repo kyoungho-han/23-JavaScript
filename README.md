@@ -30,3 +30,10 @@
 * 숫자형 변환 : parseInt() 함수, parseFloat() 함수
 * 문자열로 변환 : toString() 함수, String() 함수
 * 논리형 변환 : Boolean() 함수
+
+---
+
+##2주차 실습
+### 화씨온도를 섭씨온도로 변환하기
+<img width="868" alt="스크린샷 2023-03-16 오후 7 44 21" src="https://user-images.githubusercontent.com/116784548/225593765-2d0c2264-e10a-4dcf-b6a8-da47f4787a55.png">
+
