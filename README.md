@@ -35,6 +35,19 @@
 
 ##2주차 실습
 ### 화씨온도를 섭씨온도로 변환하기
-<img width="868" alt="스크린샷 2023-03-16 오후 7 44 21" src="https://user-images.githubusercontent.com/116784548/225593765-2d0c2264-e10a-4dcf-b6a8-da47f4787a55.png"><img width="454" alt="스크린샷 2023-03-16 오후 7 44 32" src="https://user-images.githubusercontent.com/116784548/225594141-b6d17914-7a11-4c16-b3ca-e8394ffb953a.png">
+<img width="868" alt="스크린샷 2023-03-16 오후 7 44 21" src="https://user-images.githubusercontent.com/116784548/225593765-2d0c2264-e10a-4dcf-b6a8-da47f4787a55.png">
+<img width="454" alt="스크린샷 2023-03-16 오후 7 44 32" src="https://user-images.githubusercontent.com/116784548/225594141-b6d17914-7a11-4c16-b3ca-e8394ffb953a.png">
+* 코드
+<img width="429" alt="스크린샷 2023-03-16 오후 7 44 47" src="https://user-images.githubusercontent.com/116784548/225594410-e9465db2-c4d5-4223-ac82-a5aaaa124b06.png">
 
 
+
+### 마무리 문제 1 (연산자)
+<img width="640" alt="스크린샷 2023-03-16 오후 7 29 18" src="https://user-images.githubusercontent.com/116784548/225594507-8a6e11ae-22cd-4527-a398-a49460b1a6f9.png">
+
+
+### 마무리 문제 2 (인치단위 센티미터 단위로 변환)
+<img width="864" alt="스크린샷 2023-03-16 오후 7 45 20" src="https://user-images.githubusercontent.com/116784548/225594581-37d83594-c902-447c-b8ea-2d5e2710b5fc.png">
+<img width="457" alt="스크린샷 2023-03-16 오후 7 45 23" src="https://user-images.githubusercontent.com/116784548/225594608-e2367338-a2a8-41d3-9ebc-f89759139ca3.png">
+* 코드
+<img width="414" alt="스크린샷 2023-03-16 오후 7 45 05" src="https://user-images.githubusercontent.com/116784548/225594631-6b3a614b-b59c-44d4-b596-abb8c129ec8d.png">
